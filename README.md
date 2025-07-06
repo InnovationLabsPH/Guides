@@ -31,7 +31,8 @@ As with any team member, you should provide enough context and information on wh
 If you do not understand the code and concepts it is doing, you can ask it very specific questions, and the AI can teach it to you.
 
 Watch this video to understand all the possible ways to leverage this tool.  
-https://youtu.be/jXp5D5ZnxGM?si=guNoRh8yV0ldlrNf
+https://youtu.be/jXp5D5ZnxGM?si=guNoRh8yV0ldlrNf  
+https://www.youtube.com/watch?v=dutyOc_cAEU  
 
 ### Requesting Github Copilot Student License
 
