@@ -19,7 +19,7 @@ This is our preferred editor for everything we do for coding. If you need to cod
 * AI
 * Etc...
 
-Watch this video to understand how to use it:
+Watch this video to understand how to use it:  
 https://youtu.be/B-s71n0dHUk?si=YnjSZ8UbVD4PosHO
 
 ## Using Github Copilot
@@ -30,14 +30,14 @@ As with any team member, you should provide enough context and information on wh
 
 If you do not understand the code and concepts it is doing, you can ask it very specific questions, and the AI can teach it to you.
 
-Watch this video to understand all the possible ways to leverage this tool.
+Watch this video to understand all the possible ways to leverage this tool.  
 https://youtu.be/jXp5D5ZnxGM?si=guNoRh8yV0ldlrNf
 
 ### Requesting Github Copilot Student License
 
 Github Copilot License gives you more access and features to Github Copilot. 
 Usually this cost 20USD per person, If you are a student, Request a Student License to get it for free.
-The process may take up to a week, so do it now if you're planning to use it soon.
+The process may take up to a week, so do it now if you're planning to use it soon.  
 https://education.github.com/discount_requests/application
 
 ## IOT / Microcontrollers / Arduino
