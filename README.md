@@ -5,9 +5,9 @@ Github is where we store all of our source code. We share and manage our work he
 This facilitates the different versions of our code from different contributors and merge them to the main copy of our code.
 Example: Instead of you emailing or transferring the entire project to another contributor, Github eliminates that and show each contributor what changed, and help us merge our code versions together.
 
-Watch this overview:
-https://www.youtube.com/watch?v=a9u2yZvsqHA
-https://www.youtube.com/watch?v=i_23KUAEtUM
+Watch this overview:  
+https://www.youtube.com/watch?v=a9u2yZvsqHA  
+https://www.youtube.com/watch?v=i_23KUAEtUM  
 
 ## Using Visual Studio Code
 Visual Studio Code is an IDE (Integrated Development Environment), where you can edit and develop your code on your local computer.
