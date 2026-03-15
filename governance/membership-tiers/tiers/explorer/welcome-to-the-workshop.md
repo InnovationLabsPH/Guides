@@ -22,6 +22,8 @@ layout:
 
 Great to see you here! We would love to meet you and hear your ideas!
 
+<div align="left"><figure><img src="../../.gitbook/assets/IMG_0359.heic" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_1047.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_1147.HEIC" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_1507.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_2898.heic" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_3779.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_4510.HEIC" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_5951.heic" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_7225 2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8935.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/5f371f5a5e165e0f323f5c0c55b2bcd2.JPEG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/605543115_10235841261470612_2042055839269019746_n.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_0247.heic" alt=""><figcaption></figcaption></figure></div>
+
 ## The Basics
 
 {% stepper %}
@@ -81,7 +83,34 @@ We currently don't sell components, but you can visit the workshop to learn how 
 
 <summary>Can I study or do my school projects here?</summary>
 
+The Workshop is meant to complement schools. We recommend that activities that can be done in school stay in school, and those that cannot be done in school be done at The Workshop.<br>
 
+Some of the things that can be done at The Workshop:\
+<i class="fa-square-check">:square-check:</i> Build your dream project\
+<i class="fa-square-check">:square-check:</i> Meet new people and discuss ideas\
+<i class="fa-square-check">:square-check:</i> 3D Print\
+<i class="fa-square-check">:square-check:</i> Soldering\
+<i class="fa-square-check">:square-check:</i> Create Prototypes\
+<i class="fa-square-check">:square-check:</i> Learn things not taught in school\
+<i class="fa-square-check">:square-check:</i> Experiment with ideas\
+<i class="fa-square-check">:square-check:</i> Try an idea, make mistakes, improve and try again.\
+...and more
+
+</details>
+
+<details>
+
+<summary>Can you do my school project for me? I'm willing to pay.</summary>
+
+**No.** The Workshop is a place for people to learn, and discover the joy of building. We can help you learn it, but expect that you'll be learning it fully and completing the project yourself. Which will actually be fun!
+
+</details>
+
+<details>
+
+<summary>Is this only for students?</summary>
+
+This is for everyone! We have members that are professionals, software engineers, analysts, educators and more!
 
 </details>
 
@@ -89,11 +118,11 @@ We currently don't sell components, but you can visit the workshop to learn how 
 
 {% columns %}
 {% column width="16.666666666666664%" %}
-<h2 align="right"><i class="fa-compass">:compass:</i></h2>
+## <i class="fa-compass">:compass:</i>
 {% endcolumn %}
 
 {% column width="25.00000000000001%" %}
-## You are now an Explorer!&#x20;
+## You are .now an Explorer!&#x20;
 {% endcolumn %}
 
 {% column width="58.333333333333336%" %}
