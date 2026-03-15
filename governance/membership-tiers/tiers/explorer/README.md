@@ -10,9 +10,9 @@ icon: compass
 
 Explorers are guests who want to learn about The Community Workshop, and explore what they can build, contribute and learn.
 
-## Requirement
+## Qualifications
 
-No requirements, just visit the workshop!
+Curious, wants to learn or build something.
 
 ## Privileges
 
