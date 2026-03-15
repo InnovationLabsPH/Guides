@@ -1,8 +1,8 @@
 ---
-icon: users-line
+icon: landmark
 ---
 
-# Trustee
+# Governance
 
 > Every innovation in history started with someone unknown who simply decided to build.
 >

@@ -1,4 +1,5 @@
 ---
+icon: helicopter
 layout:
   width: wide
   title:
@@ -19,4 +20,4 @@ layout:
 
 # Overall View
 
-{% include ".gitbook/includes/membership-tiers-table.md" %}
+{% include "../.gitbook/includes/membership-tiers-table.md" %}

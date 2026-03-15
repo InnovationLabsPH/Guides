@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Membership Tiers](README.md)
-* [Overall View](overall-view.md)
 
 ## Tiers
 
@@ -15,6 +14,8 @@
   * [Trusted Innovator Packet](tiers/trusted-innovator/trusted-innovator-packet.md)
 * [Keystone Trusted Innovator](tiers/keystone-trusted-innovator/README.md)
   * [Keystone Innovator Packet](tiers/keystone-trusted-innovator/keystone-innovator-packet.md)
+* [Governance](tiers/governance/README.md)
+  * [Governance Packet](tiers/governance/governance-packet.md)
 * [Trustee](tiers/trustee/README.md)
   * [Trustee Packet](tiers/trustee/trustee-packet.md)
 
@@ -24,6 +25,10 @@
 * [Administrative](roles/markdown.md)
 * [Intern](roles/images-and-media.md)
 * [Project Lead](roles/interactive-blocks.md)
+
+## References
+
+* [Overall View](references/overall-view.md)
 
 ***
 
