@@ -22,8 +22,6 @@ layout:
 
 Great to see you here! We would love to meet you and hear your ideas!
 
-<div align="left"><figure><img src="../../.gitbook/assets/IMG_0359.heic" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_1047.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_1147.HEIC" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_1507.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_2898.heic" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_3779.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_4510.HEIC" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_5951.heic" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_7225 2.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_8935.JPG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/5f371f5a5e165e0f323f5c0c55b2bcd2.JPEG" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/605543115_10235841261470612_2042055839269019746_n.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/IMG_0247.heic" alt=""><figcaption></figcaption></figure></div>
-
 ## The Basics
 
 {% stepper %}
