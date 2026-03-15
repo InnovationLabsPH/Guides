@@ -1,11 +1,13 @@
 # Table of contents
 
 * [Membership Tiers](README.md)
+* [Overall View](overall-view.md)
 
-## Getting Started
+## Tiers
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Explorer](tiers/explorer.md)
+* [Quickstart](tiers/quickstart.md)
+* [Publish your docs](tiers/publish-your-docs.md)
 
 ## Basics
 
