@@ -24,26 +24,6 @@ Welcome to the Community! We would love to meet you and hear your their ideas!
 
 
 
-{% columns %}
-{% column %}
-<h3 align="right">What is The Workshop?</h3>
-{% endcolumn %}
-
-{% column %}
-<mark style="color:$primary;">**The Workshop**</mark> is a community-run makerspace where anyone can learn and build their dream projects without being limited by financial capacity. We connect people across Robotics, AI, Software, Electronics, Design, Education, and more. We learn, share, create, and solve problems together. The Workshop is managed and run by <mark style="color:$primary;">**Sorsogon Community Innovation Labs**</mark>.
-{% endcolumn %}
-{% endcolumns %}
-
-{% columns %}
-{% column %}
-<h3 align="right">What is Sorsogon Community Innovation Labs?</h3>
-{% endcolumn %}
-
-{% column %}
-**Sorsogon Community Innovation Labs (SCIL)** is a non-profit organization and community of builders, problem solvers, learners, and professionals, with a mission to provide accessible opportunities for learning, creating, and building meaningful projects that solve real problems in the local community, specializing in AI, Robotics, Software, Education, and Human-Centered Design.
-{% endcolumn %}
-{% endcolumns %}
-
 
 
 {% stepper %}
@@ -58,39 +38,19 @@ Welcome to the Community! We would love to meet you and hear your their ideas!
 
 **Sorsogon Community Innovation Labs (SCIL)** is a non-profit organization and community of builders, problem solvers, learners, and professionals, with a mission to provide accessible opportunities for learning, creating, and building meaningful projects that solve real problems in the local community, specializing in AI, Robotics, Software, Education, and Human-Centered Design.
 {% endstep %}
+
+{% step %}
+### Our Mission
+
+> Foster a space for dreamers, builders and learners.
+{% endstep %}
 {% endstepper %}
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h3>What is The Workshop?</h3></td><td><mark style="color:$primary;"><strong>The Workshop</strong></mark> is a community-run makerspace where anyone can learn and build their dream projects without being limited by financial capacity. We connect people across Robotics, AI, Software, Electronics, Design, Education, and more. We learn, share, create, and solve problems together. The Workshop is managed and run by <mark style="color:$primary;"><strong>Sorsogon Community Innovation Labs</strong></mark>.</td></tr><tr><td><h3>What is Sorsogon Community Innovation Labs?</h3></td><td><strong>Sorsogon Community Innovation Labs (SCIL)</strong> is a non-profit organization and community of builders, problem solvers, learners, and professionals, with a mission to provide accessible opportunities for learning, creating, and building meaningful projects that solve real problems in the local community, specializing in AI, Robotics, Software, Education, and Human-Centered Design.</td></tr></tbody></table>
-
 <details>
 
-<summary>What is The Workshop?</summary>
-
-<mark style="color:$primary;">**The Workshop**</mark> is a community-run makerspace where anyone can learn and build their dream projects without being limited by financial capacity. We connect people across Robotics, AI, Software, Electronics, Design, Education, and more. We learn, share, create, and solve problems together. The Workshop is managed and run by <mark style="color:$primary;">**Sorsogon Community Innovation Labs**</mark>.
-
-</details>
-
-<details>
-
-<summary>What is Sorsogon Community Innovation Labs?</summary>
-
-**Sorsogon Community Innovation Labs (SCIL)** is a non-profit organization and community of builders, problem solvers, learners, and professionals, with a mission to provide accessible opportunities for learning, creating, and building meaningful projects that solve real problems in the local community, specializing in AI, Robotics, Software, Education, and Human-Centered Design.
-
-</details>
-
-
-
-## What is The Workshop?
-
-<mark style="color:$primary;">**The Workshop**</mark> is a community-run makerspace where anyone can learn and build their dream projects without being limited by financial capacity. We connect people across Robotics, AI, Software, Electronics, Design, Education, and more. We learn, share, create, and solve problems together. The Workshop is managed and run by <mark style="color:$primary;">**Sorsogon Community Innovation Labs**</mark>.
-
-## What is Sorsogon Community Innovation Labs?
-
-**Sorsogon Community Innovation Labs (SCIL)** is a non-profit organization and community of builders, problem solvers, learners, and professionals, with a mission to provide accessible opportunities for learning, creating, and building meaningful projects that solve real problems in the local community, specializing in AI, Robotics, Software, Education, and Human-Centered Design.
-
-## Is it free?
+<summary>Is it free?</summary>
 
 The community wants to eliminate the barrier to learning and problem solving. Whether you want to build a dream project, learn something new, or connect with people who can understand your ideas, you are always welcomed to do so.
 
@@ -100,9 +60,15 @@ We operate in a **"Give what you can, and take what you need"** model
 
 Technically, it's not free, but you can pay with time, effort, and contributions, doesn't have to be money (but is also welcomed). We need to balance accessibility and sustainability.
 
-## Our Mission
+</details>
+
+<details>
+
+<summary>Can I build my project here?</summary>
 
 
+
+</details>
 
 
 
@@ -132,15 +98,11 @@ You need to be accompanied by a community member that can help you tour around t
 
 ## Stay connected
 
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Messenger Community</h3></td><td>Join our Facebook Messenger Community. This is our primary mode of communication.</td><td><a href="https://m.me/cm/AbZpoYGIdhszuGc6/?send_source=cm:copy_invite_link">https://m.me/cm/AbZpoYGIdhszuGc6/?send_source=cm:copy_invite_link</a></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image.png">image.png</a></td></tr><tr><td><h3>Follow us on Facebook</h3></td><td>Get up to date, see featured projects, stories, and more.</td><td><a href="https://www.facebook.com/share/1KWVPxEoW6/?mibextid=wwXIfr">https://www.facebook.com/share/1KWVPxEoW6/?mibextid=wwXIfr</a></td><td></td></tr><tr><td><h3>Portal</h3></td><td>The Workshop Portal. See members, projects and their contributions.</td><td><a href="https://innovationlabs.ph">https://innovationlabs.ph</a></td><td></td></tr><tr><td><h3>Follow us on Instagram</h3></td><td>Get up to date, see featured projects, stories, and more.</td><td><a href="https://www.instagram.com/the.workshop.sorsogon">https://www.instagram.com/the.workshop.sorsogon</a></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (1).png">image (1).png</a></td></tr></tbody></table>
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Join our Community!
-
-
-
-
-
-
 
 
 
