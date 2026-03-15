@@ -6,7 +6,7 @@
 ## Tiers
 
 * [Explorer](tiers/explorer/README.md)
-  * [The Workshop Explorer Packet](tiers/explorer/the-workshop-explorer-packet.md)
+  * [Welcome to The Workshop!](tiers/explorer/welcome-to-the-workshop.md)
 * [Quickstart](tiers/quickstart.md)
 * [Publish your docs](tiers/publish-your-docs.md)
 

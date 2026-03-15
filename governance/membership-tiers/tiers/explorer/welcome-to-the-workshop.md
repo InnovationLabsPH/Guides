@@ -1,4 +1,5 @@
 ---
+description: The Workshop Explorer Packet
 layout:
   width: wide
   title:
@@ -17,9 +18,9 @@ layout:
     visible: true
 ---
 
-# The Workshop Explorer Packet
+# Welcome to The Workshop!
 
-Welcome to the Community! We would love to meet you and hear your their ideas!
+Great to see you here! We would love to meet you and hear your ideas!
 
 ## The Basics
 
@@ -68,11 +69,27 @@ Still unsure? Answer <mark style="color:$danger;">**this short questionnaire**</
 
 </details>
 
+<details>
 
+<summary>Can I buy components?</summary>
+
+We currently don't sell components, but you can visit the workshop to learn how they work so you can also confirm if you actually need them.&#x20;
+
+</details>
+
+<details>
+
+<summary>Can I study or do my school projects here?</summary>
+
+
+
+</details>
+
+***
 
 {% columns %}
 {% column width="16.666666666666664%" %}
-## <i class="fa-compass">:compass:</i>
+<h2 align="right"><i class="fa-compass">:compass:</i></h2>
 {% endcolumn %}
 
 {% column width="25.00000000000001%" %}
@@ -84,8 +101,6 @@ Explorers are guests who want to learn about The Community Workshop, and explore
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 ***
 
 ## Join our Community!
@@ -94,23 +109,37 @@ Follow these steps to join our community
 
 {% stepper %}
 {% step %}
-### Follow our Facebook Page
+### <i class="fa-thumbs-up">:thumbs-up:</i> Follow our Facebook Page
 
 <a href="https://www.facebook.com/share/18AY74JfGY/?mibextid=wwXIfr" class="button primary" data-icon="facebook">Follow</a>
 {% endstep %}
 
 {% step %}
-### Join our Messenger Community
+### <i class="fa-messages">:messages:</i> Join our Messenger Community
 
-<a href="https://m.me/cm/AbZpoYGIdhszuGc6" class="button primary" data-icon="facebook-messenger">Join</a>
+<a href="https://m.me/ch/AbaTFGJ0IzYBM1tt/" class="button primary" data-icon="facebook-messenger">Join</a>
 
-Don't forget to say hi and share your ideas!
+{% hint style="info" %}
+Some people have trouble with their facebook messenger and are unable to join the community. In this case, you may messege the facebook page or visit the workshop directly.
+{% endhint %}
 {% endstep %}
 
 {% step %}
-### Visit the Workshop
+### <i class="fa-hand-wave">:hand-wave:</i> Introduce yourself!
+
+Send a message to our `Explorers` channel on the Messenger Community.
+
+Don't know what to say? try:
+
+> Hi everyone! I'm \<nickname>, I'm new here and I like \<building/learning something>
+{% endstep %}
+
+{% step %}
+### <i class="fa-location-dot">:location-dot:</i> Visit the Workshop
 
 We're looking forward to meeting you in person!
+
+Best time to come is at around 3pm to 5pm, any days of the week.
 
 {% include "../../.gitbook/includes/the-workshop-google-maps.md" %}
 {% endstep %}
@@ -118,13 +147,15 @@ We're looking forward to meeting you in person!
 {% step %}
 ### Browse Community Projects&#x20;
 
-
+<a href="https://www.innovationlabs.ph/projects" class="button primary" data-icon="magnifying-glass">Browse community projects</a>
 {% endstep %}
 {% endstepper %}
 
+***
+
 ## Basic Policies
 
-Policies that you as an Explorer is expected to know
+Some guidelines for your first visits.
 
 {% stepper %}
 {% step %}
@@ -148,9 +179,9 @@ You need to be accompanied by a community member that can help you tour around t
 
 ## Stay connected
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Messenger Community</h3></td><td>Join our Facebook Messenger Community. This is our primary mode of communication.</td><td><a href="https://m.me/cm/AbZpoYGIdhszuGc6/?send_source=cm:copy_invite_link">https://m.me/cm/AbZpoYGIdhszuGc6/?send_source=cm:copy_invite_link</a></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image.png">image.png</a></td></tr><tr><td><h3>Follow us on Facebook</h3></td><td>Get up to date, see featured projects, stories, and more.</td><td><a href="https://www.facebook.com/share/1KWVPxEoW6/?mibextid=wwXIfr">https://www.facebook.com/share/1KWVPxEoW6/?mibextid=wwXIfr</a></td><td></td></tr><tr><td><h3>Portal</h3></td><td>The Workshop Portal. See members, projects and their contributions.</td><td><a href="https://innovationlabs.ph">https://innovationlabs.ph</a></td><td></td></tr><tr><td><h3>Follow us on Instagram</h3></td><td>Get up to date, see featured projects, stories, and more.</td><td><a href="https://www.instagram.com/the.workshop.sorsogon">https://www.instagram.com/the.workshop.sorsogon</a></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (1).png">image (1).png</a></td></tr></tbody></table>
+***
 
-##
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>Messenger Community</h3></td><td>Join our Facebook Messenger Community. This is our primary mode of communication.</td><td><a href="https://m.me/cm/AbZpoYGIdhszuGc6/?send_source=cm:copy_invite_link">https://m.me/cm/AbZpoYGIdhszuGc6/?send_source=cm:copy_invite_link</a></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image.png">image.png</a></td></tr><tr><td><h3>Follow us on Facebook</h3></td><td>Get up to date, see featured projects, stories, and more.</td><td><a href="https://www.facebook.com/share/1KWVPxEoW6/?mibextid=wwXIfr">https://www.facebook.com/share/1KWVPxEoW6/?mibextid=wwXIfr</a></td><td></td></tr><tr><td><h3>Portal</h3></td><td>The Workshop Portal. See members, projects and their contributions.</td><td><a href="https://innovationlabs.ph">https://innovationlabs.ph</a></td><td></td></tr><tr><td><h3>Follow us on Instagram</h3></td><td>Get up to date, see featured projects, stories, and more.</td><td><a href="https://www.instagram.com/the.workshop.sorsogon">https://www.instagram.com/the.workshop.sorsogon</a></td><td data-object-fit="contain"><a href="../../.gitbook/assets/image (1).png">image (1).png</a></td></tr></tbody></table>
 
 
 

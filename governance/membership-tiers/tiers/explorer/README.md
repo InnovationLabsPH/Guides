@@ -26,7 +26,7 @@ No requirements, just visit the workshop!
 
 * [ ] Respect space and equipments.&#x20;
 * [ ] Understand what the community is about.&#x20;
-* [ ] Understand and follow the [the-workshop-explorer-packet.md](the-workshop-explorer-packet.md "mention")
+* [ ] Understand and follow the [welcome-to-the-workshop.md](welcome-to-the-workshop.md "mention")
 
 ## Equipment and Facility Use&#x20;
 
