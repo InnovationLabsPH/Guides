@@ -20,6 +20,16 @@ layout:
 
 # Membership Tiers
 
+The **Membership Tier** describes the level of engagement, contribution and responsibilities of a member which helps define their privileges within the community.
+
+{% hint style="info" %}
+Keep in mind that we operate in a culture of mutual respect. This membership framework should in no way define or influence how we respect and treat each other.
+{% endhint %}
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th><select><option value="3bGip161uYnD" label="Level: 1" color="blue"></option><option value="FV5zd4ERnpHg" label="Level: 2" color="blue"></option><option value="0dCwapMXSJos" label="Level: 3" color="blue"></option><option value="E0CIcRRIc6Yy" label="Level: 4" color="blue"></option><option value="a2alOe9xyWjf" label="Level: 5" color="blue"></option><option value="G3aiQmMP5iLv" label="Level: 6" color="blue"></option></select></th></tr></thead><tbody><tr><td><h2>Explorer</h2></td><td>Guests who want to learn about The Community Workshop, and explore what they can build, contribute and learn.</td><td><span data-option="3bGip161uYnD">Level: 1</span></td></tr><tr><td><h2>Tinkerer</h2></td><td>The entry-level membership. Members who want to build personal and community projects. Maybe new to skill or technical knowledge. Might still be exploring what they want to build or focus on.</td><td><span data-option="FV5zd4ERnpHg">Level: 2</span></td></tr><tr><td><h2>Innovator</h2></td><td>Members who have been consistently working on personal and contributing contributing to community projects.</td><td><span data-option="0dCwapMXSJos">Level: 3</span></td></tr><tr><td><h2>Trusted Innovator</h2></td><td>Members who have been consistently working on personal and contributing to community projects.</td><td><span data-option="E0CIcRRIc6Yy">Level: 4</span></td></tr><tr><td><h2>Keystone Innovator</h2></td><td>Highest trust rating for members, only select few can be Keystone Innovators.</td><td><span data-option="a2alOe9xyWjf">Level: 5</span></td></tr><tr><td><h2>Governance</h2></td><td>Highest trust rating for members, helps create policies and drive committees and community projects.</td><td><span data-option="a2alOe9xyWjf">Level: 5</span></td></tr><tr><td><h2>Trustee</h2></td><td>Leaders who ensure that the organization serves its mission and aligns with its values.</td><td><span data-option="G3aiQmMP5iLv">Level: 6</span></td></tr></tbody></table>
+
 
 
 | Level              | Description                                    | Tools & Equipment | Privileges                       | Responsibilities                           | Values                       | Policies            | Requirement                               | Engagement Requirement    | Consistency Requirement |
