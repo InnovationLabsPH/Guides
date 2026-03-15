@@ -7,16 +7,23 @@
 
 * [Explorer](tiers/explorer/README.md)
   * [Welcome to The Workshop!](tiers/explorer/welcome-to-the-workshop.md)
-* [Quickstart](tiers/quickstart.md)
-* [Publish your docs](tiers/publish-your-docs.md)
+* [Tinkerer](tiers/tinkerer/README.md)
+  * [Tinkerer Packet](tiers/tinkerer/tinkerer-packet.md)
+* [Innovator](tiers/innovator/README.md)
+  * [Innovator Packet](tiers/innovator/innovator-packet.md)
+* [Trusted Innovator](tiers/trusted-innovator/README.md)
+  * [Trusted Innovator Packet](tiers/trusted-innovator/trusted-innovator-packet.md)
+* [Keystone Trusted Innovator](tiers/keystone-trusted-innovator/README.md)
+  * [Keystone Innovator Packet](tiers/keystone-trusted-innovator/keystone-innovator-packet.md)
+* [Trustee](tiers/trustee/README.md)
+  * [Trustee Packet](tiers/trustee/trustee-packet.md)
 
-## Basics
+## Roles
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Workshop Facilitator](roles/editor.md)
+* [Administrative](roles/markdown.md)
+* [Intern](roles/images-and-media.md)
+* [Project Lead](roles/interactive-blocks.md)
 
 ***
 
