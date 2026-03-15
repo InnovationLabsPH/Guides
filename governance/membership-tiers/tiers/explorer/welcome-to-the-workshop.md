@@ -120,7 +120,7 @@ This is for everyone! We have members that are professionals, software engineers
 {% endcolumn %}
 
 {% column width="25.00000000000001%" %}
-## You are .now an Explorer!&#x20;
+## You are now an Explorer!&#x20;
 {% endcolumn %}
 
 {% column width="58.333333333333336%" %}
