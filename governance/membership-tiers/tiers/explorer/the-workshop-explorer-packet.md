@@ -26,7 +26,7 @@ Welcome to the Community! We would love to meet you and hear your their ideas!
 
 {% columns %}
 {% column %}
-## What is The Workshop?
+<h3 align="right">What is The Workshop?</h3>
 {% endcolumn %}
 
 {% column %}
@@ -36,7 +36,7 @@ Welcome to the Community! We would love to meet you and hear your their ideas!
 
 {% columns %}
 {% column %}
-## What is Sorsogon Community Innovation Labs?
+<h3 align="right">What is Sorsogon Community Innovation Labs?</h3>
 {% endcolumn %}
 
 {% column %}
