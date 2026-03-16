@@ -31,7 +31,7 @@ Curious, wants to learn or build something.
 
 ## Equipment and Facility Use&#x20;
 
-* [ ] Must be accompanied by an [Innovator](../innovator/) for any equipment use.
+* [ ] Must be accompanied by an [innovator](../innovator/ "mention") for any equipment use.
 
 ## Restrictions
 
