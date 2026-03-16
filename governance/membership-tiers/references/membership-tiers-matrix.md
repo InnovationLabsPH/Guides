@@ -1,5 +1,8 @@
 ---
-icon: helicopter
+description: >-
+  Quick reference on engagement, responsibilities, and privileges across
+  different tiers.
+icon: map
 layout:
   width: wide
   title:
@@ -18,6 +21,8 @@ layout:
     visible: true
 ---
 
-# Overall View
+# Membership Tiers Matrix
+
+
 
 {% include "../.gitbook/includes/membership-tiers-table.md" %}
