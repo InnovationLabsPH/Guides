@@ -26,11 +26,12 @@ Curious, wants to learn or build something.
 
 * [ ] Respect space and equipments.&#x20;
 * [ ] Understand what the community is about.&#x20;
-* [ ] Understand and follow the [welcome-to-the-workshop.md](welcome-to-the-workshop.md "mention")
+* [ ] Understand and follow the community guidelines.
+* [ ] Read and understand the [welcome-to-the-workshop.md](welcome-to-the-workshop.md "mention") guide.
 
 ## Equipment and Facility Use&#x20;
 
-* [ ] Must be accompanied by an <mark style="color:$danger;">**Innovator**</mark> for any equipment use.
+* [ ] Must be accompanied by an [Innovator](../innovator/) for any equipment use.
 
 ## Restrictions
 
