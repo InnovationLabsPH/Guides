@@ -28,7 +28,7 @@
 
 ## References
 
-* [Membership Tiers Matrix](references/membership-tiers-matrix.md)
+* [Membership Tiers Matrix](references/overall-view.md)
 
 ***
 
