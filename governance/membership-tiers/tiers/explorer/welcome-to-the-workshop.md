@@ -2,7 +2,7 @@
 description: The Workshop Explorer Packet
 icon: book-open-lines
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
