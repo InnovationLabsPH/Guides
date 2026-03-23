@@ -106,7 +106,7 @@ If they did not check anything, go to `Step 2.1: Influence`
 ## Check your understanding
 
 {% hint style="warning" %}
-This is assessment is required for you to start accepting guests at the workshop
+This assessment is required for you to start accepting guests at the workshop
 {% endhint %}
 
 {% embed url="https://forms.gle/StnF6L86TQBNcZP39" %}
