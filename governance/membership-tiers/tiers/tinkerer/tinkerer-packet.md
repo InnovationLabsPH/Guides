@@ -198,9 +198,11 @@ Be aware of your surroundings, respect privacy and personal space. Be aware that
 {% endstep %}
 
 {% step %}
-### Respect the Space
+### Helping visitors
 
-You need to be accompanied by a community member that can help you tour around the workshop, use an equipment, or interact with projects.&#x20;
+You might encounter visitors asking for help from time to time. Understand how to handle them here [Handling School Project Requests](https://app.gitbook.com/s/9fWQermrqndLmjljU55l/guests-and-visitors/handling-school-project-requests "mention")
+
+
 {% endstep %}
 {% endstepper %}
 
