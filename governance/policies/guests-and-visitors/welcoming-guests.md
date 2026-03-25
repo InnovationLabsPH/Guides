@@ -48,7 +48,16 @@ If the request is school-related, apply [Handling School Project Requests](handl
 {% endstep %}
 
 {% step %}
-### 3) Introduce the guest to all members at the workshop at the time
+### 3) Tour them around the workshop and introduce people along the way
+
+* Give a short tour of key spaces (work areas, tools, and shared resources).
+* As you move around, introduce members nearby and briefly mention what they do.
+* Point out who they can approach for topics they are interested in.
+* Keep introductions respectful of members who are actively focused on work.
+{% endstep %}
+
+{% step %}
+### 4) Introduce the guest to all members at the workshop at the time
 
 * Give a short introduction of the guest to members present.
 * Share what the guest is interested in building/learning.
@@ -58,7 +67,7 @@ This helps guests feel included and quickly find people who can guide them.
 {% endstep %}
 
 {% step %}
-### 4) Show the QR for "Welcome to The Workshop"
+### 5) Show the QR for "Welcome to The Workshop"
 
 * Show the QR code that points to [Welcome to The Workshop](../../membership-tiers/tiers/explorer/welcome-to-the-workshop.md).
 * Ask the guest to open it before they leave and save it for reference.
@@ -74,9 +83,10 @@ This helps guests feel included and quickly find people who can guide them.
 
 ## Minimum standard
 
-A guest is considered properly welcomed when all four actions are completed:
+A guest is considered properly welcomed when all five actions are completed:
 
 * [ ] Host introduced self and role
 * [ ] Host asked discovery questions about guest intent and goals
+* [ ] Guest received a short workshop tour with introductions along the way
 * [ ] Guest was introduced to members present
 * [ ] Guest was shown the "Welcome to The Workshop" QR guide
