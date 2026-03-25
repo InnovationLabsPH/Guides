@@ -9,7 +9,9 @@ This policy complements:
 * [Welcome to The Workshop](../../membership-tiers/tiers/explorer/welcome-to-the-workshop.md)
 * [Handling School Project Requests](handling-school-project-requests.md)
 
-The goal is to make every guest feel welcomed, understood, and connected to the community while staying aligned with The Workshop mission.
+# Your objective
+
+Make every guest feel welcomed, understood, and connected to the community while staying aligned with The Workshop mission.
 
 ## Welcoming Flow
 
