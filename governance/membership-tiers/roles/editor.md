@@ -12,6 +12,10 @@ This policy outlines the responsibilities and expectations of members who are en
 
 This policy applies to all members who are issued a key granting access to the workshop.
 
+#### Quick links
+
+{% embed url="https://forms.gle/FmfQTToUWs5LEo9E6" %}
+
 ⸻
 
 #### 1. Eligibility
