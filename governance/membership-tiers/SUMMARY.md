@@ -21,7 +21,7 @@
 
 ## Roles
 
-* [Workshop Facilitator](roles/editor.md)
+* [Workshop Facilitator](roles/workshop-facilitator.md)
 * [Administrative](roles/markdown.md)
 * [Intern](roles/images-and-media.md)
 * [Project Lead](roles/interactive-blocks.md)
