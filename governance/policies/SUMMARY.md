@@ -10,6 +10,7 @@
 
 ## Guests and Visitors
 
+* [Welcoming Guests](guests-and-visitors/welcoming-guests.md)
 * [Handling Guests and Explorers](guests-and-visitors/handling-guests-and-explorers.md)
 * [Handling School Project Requests](guests-and-visitors/handling-school-project-requests.md)
 
