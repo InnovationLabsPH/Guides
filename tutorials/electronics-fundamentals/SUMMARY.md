@@ -2,10 +2,10 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Basic Projects
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Light Post](basic-projects/quickstart.md)
+* [Electric Fan](basic-projects/publish-your-docs.md)
 
 ## Basics
 
