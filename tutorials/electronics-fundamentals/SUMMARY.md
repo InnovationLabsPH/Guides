@@ -4,7 +4,9 @@
 
 ## Basic Projects
 
-* [Light Post](basic-projects/quickstart.md)
+* [💡 Light Post](basic-projects/quickstart.md)
+* [💡 Light Post with Breadboard](basic-projects/quickstart-1.md)
+* [💡 Light Post with Breadboard](basic-projects/quickstart-2.md)
 * [Electric Fan](basic-projects/publish-your-docs.md)
 
 ## Basics
