@@ -17,6 +17,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Welcome to The Workshop!
@@ -65,8 +67,7 @@ Technically, it's not free, but you can pay with time, effort, and contributions
 
 <summary>Can I build my project here?</summary>
 
-If you want to learn, or you want to build a project, yes! \
-Still unsure? Answer <mark style="color:$danger;">**this short questionnaire**</mark> to know if you can build your project at the workshop.
+If you want to learn, or you want to build a project, yes!&#x20;
 
 </details>
 
@@ -101,7 +102,7 @@ Some of the things that can be done at The Workshop:\
 
 <summary>Can you do my school project for me? I'm willing to pay.</summary>
 
-**No.** The Workshop is a place for people to learn, and discover the joy of building. We can help you learn it, but expect that you'll be learning it fully and completing the project yourself. Which will actually be fun!
+**No.** The Workshop is a place for people to learn, and discover the joy of building.&#x20;
 
 </details>
 
@@ -140,6 +141,12 @@ Follow these steps to join our community
 ### <i class="fa-thumbs-up">:thumbs-up:</i> Follow our Facebook Page
 
 <a href="https://www.facebook.com/share/18AY74JfGY/?mibextid=wwXIfr" class="button primary" data-icon="facebook">Follow</a>
+{% endstep %}
+
+{% step %}
+### Fill out this form
+
+{% embed url="https://forms.gle/RgCAuhkpz2qY1efm9" %}
 {% endstep %}
 
 {% step %}
